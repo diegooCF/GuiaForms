@@ -1,0 +1,10 @@
+c:\users\liok\documents\visual studio 2013\Projects\Practices\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+c:\users\liok\documents\visual studio 2013\Projects\Practices\Ejercicio13\bin\Debug\Ejercicio13.exe
+c:\users\liok\documents\visual studio 2013\Projects\Practices\Ejercicio13\bin\Debug\Ejercicio13.pdb
+c:\users\liok\documents\visual studio 2013\Projects\Practices\Ejercicio13\obj\Debug\Ejercicio13.csprojResolveAssemblyReference.cache
+c:\users\liok\documents\visual studio 2013\Projects\Practices\Ejercicio13\obj\Debug\Ejercicio13.Properties.Resources.resources
+c:\users\liok\documents\visual studio 2013\Projects\Practices\Ejercicio13\obj\Debug\Ejercicio13.csproj.GenerateResource.Cache
+c:\users\liok\documents\visual studio 2013\Projects\Practices\Ejercicio13\obj\Debug\Ejercicio13.exe
+c:\users\liok\documents\visual studio 2013\Projects\Practices\Ejercicio13\obj\Debug\Ejercicio13.pdb
+c:\users\liok\documents\visual studio 2013\Projects\Practices\Ejercicio13\obj\Debug\Ejercicio13.Form1.resources
+c:\users\liok\documents\visual studio 2013\Projects\Practices\Ejercicio13\obj\Debug\Ejercicio13.InputDialog.resources

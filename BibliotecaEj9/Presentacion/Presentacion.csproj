@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DAC4ABA9-BDC1-409F-9114-2AAB99E5C611}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Presentacion</RootNamespace>
+    <AssemblyName>Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acciones\AddSocio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acciones\AddSocio.Designer.cs">
+      <DependentUpon>AddSocio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acciones\BooksManager\AddEjemplar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acciones\BooksManager\AddEjemplar.Designer.cs">
+      <DependentUpon>AddEjemplar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acciones\BooksManager\AddLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acciones\BooksManager\AddLibro.Designer.cs">
+      <DependentUpon>AddLibro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acciones\BooksManager\BookManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acciones\BooksManager\BookManager.Designer.cs">
+      <DependentUpon>BookManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acciones\BorrarSocio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acciones\BorrarSocio.Designer.cs">
+      <DependentUpon>BorrarSocio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acciones\NewPrestamo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acciones\NewPrestamo.Designer.cs">
+      <DependentUpon>NewPrestamo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Acciones\AddSocio.resx">
+      <DependentUpon>AddSocio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acciones\BooksManager\AddEjemplar.resx">
+      <DependentUpon>AddEjemplar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acciones\BooksManager\AddLibro.resx">
+      <DependentUpon>AddLibro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acciones\BooksManager\BookManager.resx">
+      <DependentUpon>BookManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acciones\BorrarSocio.resx">
+      <DependentUpon>BorrarSocio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acciones\NewPrestamo.resx">
+      <DependentUpon>NewPrestamo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{660d26d2-edd5-481b-998d-01b1993a3bb0}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Logica\Logica.csproj">
+      <Project>{f7630bd4-fbd7-48ce-a231-1cabf5b6ee19}</Project>
+      <Name>Logica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
