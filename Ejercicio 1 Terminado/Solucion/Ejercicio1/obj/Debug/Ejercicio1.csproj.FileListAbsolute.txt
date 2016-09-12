@@ -1,0 +1,26 @@
+c:\users\diego fernandez\documents\visual studio 2015\Projects\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+c:\users\diego fernandez\documents\visual studio 2015\Projects\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+c:\users\diego fernandez\documents\visual studio 2015\Projects\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+c:\users\diego fernandez\documents\visual studio 2015\Projects\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+c:\users\diego fernandez\documents\visual studio 2015\Projects\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+c:\users\diego fernandez\documents\visual studio 2015\Projects\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.Cache
+c:\users\diego fernandez\documents\visual studio 2015\Projects\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+c:\users\diego fernandez\documents\visual studio 2015\Projects\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+c:\users\diego fernandez\documents\visual studio 2015\Projects\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.FrmPrincipal.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.FrmPrincipal.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.Cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio1\Solucion\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio1\Solucion\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio1\Solucion\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio1\Solucion\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio1\Solucion\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio1\Solucion\Ejercicio1\obj\Debug\Ejercicio1.FrmPrincipal.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio1\Solucion\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio1\Solucion\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.Cache

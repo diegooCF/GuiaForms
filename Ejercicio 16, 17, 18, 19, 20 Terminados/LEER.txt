@@ -1,0 +1,2 @@
+La solucion Ejercicio20 contiene los proyectos del ejercicio 16 a 20
+Adentro cada uno tiene su ejecutable

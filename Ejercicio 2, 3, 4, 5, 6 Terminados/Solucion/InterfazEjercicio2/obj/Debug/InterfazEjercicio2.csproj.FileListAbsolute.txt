@@ -1,0 +1,39 @@
+c:\users\diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\InterfazEjercicio2\bin\Debug\InterfazEjercicio2.exe.config
+c:\users\diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.csprojResolveAssemblyReference.cache
+c:\users\diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.frmDesplegar.resources
+c:\users\diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.frmMain.resources
+c:\users\diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.Properties.Resources.resources
+c:\users\diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.csproj.GenerateResource.Cache
+c:\users\diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\InterfazEjercicio2\bin\Debug\InterfazEjercicio2.exe
+c:\users\diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\InterfazEjercicio2\bin\Debug\InterfazEjercicio2.pdb
+c:\users\diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.exe
+c:\users\diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.pdb
+C:\Users\Diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\InterfazEjercicio2\bin\Debug\Triagulo.dll
+C:\Users\Diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\InterfazEjercicio2\bin\Debug\Triagulo.pdb
+C:\Users\Diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.frmCalcular.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\InterfazEjercicio2\bin\Debug\InterfazEjercicio2.exe.config
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\InterfazEjercicio2\bin\Debug\InterfazEjercicio2.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\InterfazEjercicio2\bin\Debug\InterfazEjercicio2.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.csprojResolveAssemblyReference.cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.frmCalcular.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.frmDesplegar.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.frmMain.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.Properties.Resources.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.csproj.GenerateResource.Cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\InterfazEjercicio2\bin\Debug\Triangulo.dll
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\InterfazEjercicio2\bin\Debug\Triangulo.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2, 3, 4, 5, 6 Terminados\InterfazEjercicio2\bin\Debug\InterfazEjercicio2.exe.config
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2, 3, 4, 5, 6 Terminados\InterfazEjercicio2\bin\Debug\InterfazEjercicio2.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2, 3, 4, 5, 6 Terminados\InterfazEjercicio2\bin\Debug\InterfazEjercicio2.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2, 3, 4, 5, 6 Terminados\InterfazEjercicio2\bin\Debug\Triangulo.dll
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2, 3, 4, 5, 6 Terminados\InterfazEjercicio2\bin\Debug\Triangulo.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2, 3, 4, 5, 6 Terminados\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.csprojResolveAssemblyReference.cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2, 3, 4, 5, 6 Terminados\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.frmCalcular.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2, 3, 4, 5, 6 Terminados\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.frmDesplegar.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2, 3, 4, 5, 6 Terminados\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.frmMain.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2, 3, 4, 5, 6 Terminados\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.Properties.Resources.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2, 3, 4, 5, 6 Terminados\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.csproj.GenerateResource.Cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2, 3, 4, 5, 6 Terminados\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2, 3, 4, 5, 6 Terminados\InterfazEjercicio2\obj\Debug\InterfazEjercicio2.pdb

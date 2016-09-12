@@ -1,0 +1,18 @@
+c:\users\liok\documents\visual studio 2013\Projects\Ejercicio20\Ejericicio19\bin\Debug\Ejericicio19.exe.config
+c:\users\liok\documents\visual studio 2013\Projects\Ejercicio20\Ejericicio19\bin\Debug\Ejericicio19.exe
+c:\users\liok\documents\visual studio 2013\Projects\Ejercicio20\Ejericicio19\bin\Debug\Ejericicio19.pdb
+c:\users\liok\documents\visual studio 2013\Projects\Ejercicio20\Ejericicio19\obj\Debug\Ejericicio19.FrmMain.resources
+c:\users\liok\documents\visual studio 2013\Projects\Ejercicio20\Ejericicio19\obj\Debug\Ejericicio19.Properties.Resources.resources
+c:\users\liok\documents\visual studio 2013\Projects\Ejercicio20\Ejericicio19\obj\Debug\Ejericicio19.csproj.GenerateResource.Cache
+c:\users\liok\documents\visual studio 2013\Projects\Ejercicio20\Ejericicio19\obj\Debug\Ejericicio19.exe
+c:\users\liok\documents\visual studio 2013\Projects\Ejercicio20\Ejericicio19\obj\Debug\Ejericicio19.pdb
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\Ejercicio20\Ejericicio19\obj\Debug\Ejericicio19.csprojResolveAssemblyReference.cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejericicio19\bin\Debug\Ejericicio19.exe.config
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejericicio19\bin\Debug\Ejericicio19.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejericicio19\bin\Debug\Ejericicio19.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejericicio19\obj\Debug\Ejericicio19.csprojResolveAssemblyReference.cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejericicio19\obj\Debug\Ejericicio19.FrmMain.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejericicio19\obj\Debug\Ejericicio19.Properties.Resources.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejericicio19\obj\Debug\Ejericicio19.csproj.GenerateResource.Cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejericicio19\obj\Debug\Ejericicio19.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejericicio19\obj\Debug\Ejericicio19.pdb

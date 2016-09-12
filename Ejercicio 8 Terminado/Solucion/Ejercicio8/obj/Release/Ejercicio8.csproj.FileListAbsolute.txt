@@ -1,0 +1,14 @@
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\bin\Release\Ejercicio8.exe.config
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\bin\Release\Ejercicio8.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\bin\Release\Ejercicio8.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\obj\Release\Ejercicio8.csprojResolveAssemblyReference.cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\obj\Release\Ejercicio8.Estacionamiento.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\obj\Release\Ejercicio8.FrmIngreso.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\obj\Release\Ejercicio8.FrmSalida.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\obj\Release\Ejercicio8.Properties.Resources.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\obj\Release\Ejercicio8.csproj.GenerateResource.Cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\obj\Release\Ejercicio8.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\obj\Release\Ejercicio8.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Solucion\Ejercicio8\bin\Release\Ejercicio8.exe.config
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Solucion\Ejercicio8\obj\Release\Ejercicio8.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Solucion\Ejercicio8\obj\Release\Ejercicio8.pdb

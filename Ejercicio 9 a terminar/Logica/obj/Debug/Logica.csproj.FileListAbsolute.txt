@@ -1,0 +1,21 @@
+c:\users\diego fernandez\documents\visual studio 2015\Projects\BibliotecaEj9\Logica\bin\Debug\Logica.dll
+c:\users\diego fernandez\documents\visual studio 2015\Projects\BibliotecaEj9\Logica\bin\Debug\Logica.pdb
+c:\users\diego fernandez\documents\visual studio 2015\Projects\BibliotecaEj9\Logica\bin\Debug\Entidades.dll
+c:\users\diego fernandez\documents\visual studio 2015\Projects\BibliotecaEj9\Logica\bin\Debug\Entidades.pdb
+c:\users\diego fernandez\documents\visual studio 2015\Projects\BibliotecaEj9\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+c:\users\diego fernandez\documents\visual studio 2015\Projects\BibliotecaEj9\Logica\obj\Debug\Logica.dll
+c:\users\diego fernandez\documents\visual studio 2015\Projects\BibliotecaEj9\Logica\obj\Debug\Logica.pdb
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\BibliotecaEj9\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\BibliotecaEj9\Logica\obj\Debug\Logica.dll
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\BibliotecaEj9\Logica\obj\Debug\Logica.pdb
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\BibliotecaEj9\Logica\bin\Debug\Logica.dll
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\BibliotecaEj9\Logica\bin\Debug\Logica.pdb
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\BibliotecaEj9\Logica\bin\Debug\Entidades.dll
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\BibliotecaEj9\Logica\bin\Debug\Entidades.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 9 a terminar\Logica\bin\Debug\Logica.dll
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 9 a terminar\Logica\bin\Debug\Logica.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 9 a terminar\Logica\bin\Debug\Entidades.dll
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 9 a terminar\Logica\bin\Debug\Entidades.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 9 a terminar\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 9 a terminar\Logica\obj\Debug\Logica.dll
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 9 a terminar\Logica\obj\Debug\Logica.pdb

@@ -1,0 +1,12 @@
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\bin\Debug\Guia 2.exe.config
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\bin\Debug\Guia 2.exe
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\bin\Debug\Guia 2.pdb
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Debug\Ejercicio 7.csprojResolveAssemblyReference.cache
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Debug\Guia_2.AddItem.resources
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Debug\Guia_2.Inicio.resources
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Debug\Guia_2.Properties.Resources.resources
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Debug\Ejercicio 7.csproj.GenerateResource.Cache
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Debug\Guia 2.exe
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Debug\Guia 2.pdb
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Debug\Guia_2.VerDatos.resources
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Debug\Guia_2.VerStock.resources

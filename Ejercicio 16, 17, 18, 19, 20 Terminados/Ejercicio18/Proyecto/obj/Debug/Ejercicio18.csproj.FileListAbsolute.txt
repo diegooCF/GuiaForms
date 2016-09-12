@@ -1,0 +1,9 @@
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio18\bin\Debug\Ejercicio18.exe.config
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio18\bin\Debug\Ejercicio18.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio18\bin\Debug\Ejercicio18.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio18\obj\Debug\Ejercicio18.Properties.Resources.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio18\obj\Debug\Ejercicio18.csproj.GenerateResource.Cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio18\obj\Debug\Ejercicio18.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio18\obj\Debug\Ejercicio18.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio18\obj\Debug\Ejercicio18.FrmAgregar.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio18\obj\Debug\Ejercicio18.FrmMain.resources

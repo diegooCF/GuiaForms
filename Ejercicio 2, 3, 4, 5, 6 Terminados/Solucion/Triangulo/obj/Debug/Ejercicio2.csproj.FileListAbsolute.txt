@@ -1,0 +1,15 @@
+c:\users\diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\Triagulo\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+c:\users\diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\Triagulo\bin\Debug\Triagulo.dll
+c:\users\diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\Triagulo\bin\Debug\Triagulo.pdb
+c:\users\diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\Triagulo\obj\Debug\Triagulo.dll
+c:\users\diego_2\documents\visual studio 2015\Projects\Guia 2 Formularios\Triagulo\obj\Debug\Triagulo.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\Triagulo\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\Triagulo\bin\Debug\Triangulo.dll
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\Triagulo\bin\Debug\Triangulo.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\Triagulo\obj\Debug\Triangulo.dll
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\Triagulo\obj\Debug\Triangulo.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\Triangulo\bin\Debug\Triangulo.dll
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\Triangulo\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\Triangulo\obj\Debug\Triangulo.dll
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 2\Triangulo\obj\Debug\Triangulo.pdb

@@ -1,0 +1,10 @@
+c:\users\diego fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\bin\Debug\Guia 2.exe.config
+c:\users\diego fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Debug\Guia 2.csprojResolveAssemblyReference.cache
+c:\users\diego fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Debug\Guia_2.Properties.Resources.resources
+c:\users\diego fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Debug\Guia 2.csproj.GenerateResource.Cache
+c:\users\diego fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\bin\Debug\Guia 2.exe
+c:\users\diego fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\bin\Debug\Guia 2.pdb
+c:\users\diego fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Debug\Guia 2.exe
+c:\users\diego fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Debug\Guia 2.pdb
+c:\users\diego fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Debug\Guia_2.Inicio.resources
+c:\users\diego fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Debug\Guia_2.AddItem.resources

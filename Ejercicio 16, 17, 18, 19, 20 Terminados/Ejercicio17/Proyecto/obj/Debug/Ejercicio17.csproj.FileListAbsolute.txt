@@ -1,0 +1,20 @@
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\Ejercicio20\Ejercicio17\obj\Debug\Ejercicio17.csprojResolveAssemblyReference.cache
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\Ejercicio20\Ejercicio17\obj\Debug\Ejercicio17.FrmAgregar.resources
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\Ejercicio20\Ejercicio17\obj\Debug\Ejercicio17.FrmMain.resources
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\Ejercicio20\Ejercicio17\obj\Debug\Ejercicio17.Properties.Resources.resources
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\Ejercicio20\Ejercicio17\obj\Debug\Ejercicio17.csproj.GenerateResource.Cache
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\Ejercicio20\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\Ejercicio20\Ejercicio17\bin\Debug\Ejercicio17.exe
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\Ejercicio20\Ejercicio17\bin\Debug\Ejercicio17.pdb
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\Ejercicio20\Ejercicio17\obj\Debug\Ejercicio17.exe
+C:\Users\LIOK\Documents\Visual Studio 2013\Projects\Ejercicio20\Ejercicio17\obj\Debug\Ejercicio17.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio17\obj\Debug\Ejercicio17.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio17\obj\Debug\Ejercicio17.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio17\bin\Debug\Ejercicio17.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio17\bin\Debug\Ejercicio17.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio17\obj\Debug\Ejercicio17.csprojResolveAssemblyReference.cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio17\obj\Debug\Ejercicio17.FrmAgregar.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio17\obj\Debug\Ejercicio17.FrmMain.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio17\obj\Debug\Ejercicio17.Properties.Resources.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 16, 17, 18, 19, 20 Terminados\Ejercicio17\obj\Debug\Ejercicio17.csproj.GenerateResource.Cache

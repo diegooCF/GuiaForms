@@ -1,0 +1,36 @@
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\bin\Release\Guia 2.exe.config
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\bin\Release\Guia 2.exe
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\bin\Release\Guia 2.pdb
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Release\Guia_2.AddItem.resources
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Release\Guia_2.Inicio.resources
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Release\Guia_2.Properties.Resources.resources
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Release\Guia_2.VerDatos.resources
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Release\Guia_2.VerStock.resources
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Release\Ejercicio 7.csproj.GenerateResource.Cache
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Release\Guia 2.exe
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Release\Guia 2.pdb
+C:\Users\Diego Fernandez\documents\visual studio 2013\Projects\Guia 2\Guia 2\obj\Release\Ejercicio 7.csprojResolveAssemblyReference.cache
+D:\Projects\Guia 2\Guia 2\bin\Release\Guia 2.exe.config
+D:\Projects\Guia 2\Guia 2\obj\Release\Guia 2.exe
+D:\Projects\Guia 2\Guia 2\obj\Release\Guia 2.pdb
+D:\Projects\Guia 2\Guia 2\bin\Release\Guia 2.exe
+D:\Projects\Guia 2\Guia 2\bin\Release\Guia 2.pdb
+D:\Projects\Guia 2\Guia 2\obj\Release\Ejercicio 7.csprojResolveAssemblyReference.cache
+D:\Projects\Guia 2\Guia 2\obj\Release\Guia_2.AddItem.resources
+D:\Projects\Guia 2\Guia 2\obj\Release\Guia_2.Inicio.resources
+D:\Projects\Guia 2\Guia 2\obj\Release\Guia_2.Properties.Resources.resources
+D:\Projects\Guia 2\Guia 2\obj\Release\Guia_2.VerDatos.resources
+D:\Projects\Guia 2\Guia 2\obj\Release\Guia_2.VerStock.resources
+D:\Projects\Guia 2\Guia 2\obj\Release\Ejercicio 7.csproj.GenerateResource.Cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 7 Terminado\Solucion\Guia 2\bin\Release\Guia 2.exe.config
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 7 Terminado\Solucion\Guia 2\obj\Release\Guia 2.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 7 Terminado\Solucion\Guia 2\obj\Release\Guia 2.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 7 Terminado\Solucion\Guia 2\bin\Release\Guia 2.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 7 Terminado\Solucion\Guia 2\bin\Release\Guia 2.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 7 Terminado\Solucion\Guia 2\obj\Release\Ejercicio 7.csprojResolveAssemblyReference.cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 7 Terminado\Solucion\Guia 2\obj\Release\Guia_2.AddItem.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 7 Terminado\Solucion\Guia 2\obj\Release\Guia_2.Inicio.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 7 Terminado\Solucion\Guia 2\obj\Release\Guia_2.Properties.Resources.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 7 Terminado\Solucion\Guia 2\obj\Release\Guia_2.VerDatos.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 7 Terminado\Solucion\Guia 2\obj\Release\Guia_2.VerStock.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 7 Terminado\Solucion\Guia 2\obj\Release\Ejercicio 7.csproj.GenerateResource.Cache

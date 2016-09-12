@@ -1,0 +1,30 @@
+c:\users\liok\documents\visual studio 2013\Projects\Guia 2 ejercicio 13\Guia 2 ejercicio 13\bin\Debug\Guia 2 ejercicio 13.exe.config
+c:\users\liok\documents\visual studio 2013\Projects\Guia 2 ejercicio 13\Guia 2 ejercicio 13\bin\Debug\Guia 2 ejercicio 13.exe
+c:\users\liok\documents\visual studio 2013\Projects\Guia 2 ejercicio 13\Guia 2 ejercicio 13\bin\Debug\Guia 2 ejercicio 13.pdb
+c:\users\liok\documents\visual studio 2013\Projects\Guia 2 ejercicio 13\Guia 2 ejercicio 13\obj\Debug\Guia 2 ejercicio 14.csprojResolveAssemblyReference.cache
+c:\users\liok\documents\visual studio 2013\Projects\Guia 2 ejercicio 13\Guia 2 ejercicio 13\obj\Debug\Guia_2_ejercicio_13.Form1.resources
+c:\users\liok\documents\visual studio 2013\Projects\Guia 2 ejercicio 13\Guia 2 ejercicio 13\obj\Debug\Guia_2_ejercicio_13.Properties.Resources.resources
+c:\users\liok\documents\visual studio 2013\Projects\Guia 2 ejercicio 13\Guia 2 ejercicio 13\obj\Debug\Guia 2 ejercicio 14.csproj.GenerateResource.Cache
+c:\users\liok\documents\visual studio 2013\Projects\Guia 2 ejercicio 13\Guia 2 ejercicio 13\obj\Debug\Guia 2 ejercicio 13.exe
+c:\users\liok\documents\visual studio 2013\Projects\Guia 2 ejercicio 13\Guia 2 ejercicio 13\obj\Debug\Guia 2 ejercicio 13.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia 2 ejercicio 13\Guia 2 ejercicio 13\bin\Debug\Guia 2 ejercicio 13.exe.config
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia 2 ejercicio 13\Guia 2 ejercicio 13\bin\Debug\Guia 2 ejercicio 13.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia 2 ejercicio 13\Guia 2 ejercicio 13\bin\Debug\Guia 2 ejercicio 13.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia 2 ejercicio 13\Guia 2 ejercicio 13\obj\Debug\Guia 2 ejercicio 14.csprojResolveAssemblyReference.cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia 2 ejercicio 13\Guia 2 ejercicio 13\obj\Debug\Guia_2_ejercicio_13.Form1.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia 2 ejercicio 13\Guia 2 ejercicio 13\obj\Debug\Guia_2_ejercicio_13.Properties.Resources.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia 2 ejercicio 13\Guia 2 ejercicio 13\obj\Debug\Guia 2 ejercicio 14.csproj.GenerateResource.Cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia 2 ejercicio 13\Guia 2 ejercicio 13\obj\Debug\Guia 2 ejercicio 13.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia 2 ejercicio 13\Guia 2 ejercicio 13\obj\Debug\Guia 2 ejercicio 13.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 14 Terminado\Solucion\Guia 2 ejercicio 13\bin\Debug\Guia 2 ejercicio 13.exe.config
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 14 Terminado\Solucion\Guia 2 ejercicio 13\obj\Debug\Guia 2 ejercicio 13.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 14 Terminado\Solucion\Guia 2 ejercicio 13\obj\Debug\Guia 2 ejercicio 13.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 14 Terminado\Solucion\Guia 2 ejercicio 14\bin\Debug\Guia 2 ejercicio 13.exe.config
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 14 Terminado\Solucion\Guia 2 ejercicio 14\obj\Debug\Guia 2 ejercicio 13.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 14 Terminado\Solucion\Guia 2 ejercicio 14\obj\Debug\Guia 2 ejercicio 13.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 14 Terminado\Solucion\Guia 2 ejercicio 14\bin\Debug\Guia 2 ejercicio 13.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 14 Terminado\Solucion\Guia 2 ejercicio 14\bin\Debug\Guia 2 ejercicio 13.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 14 Terminado\Solucion\Guia 2 ejercicio 14\obj\Debug\Guia 2 ejercicio 14.csprojResolveAssemblyReference.cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 14 Terminado\Solucion\Guia 2 ejercicio 14\obj\Debug\Guia_2_ejercicio_13.Form1.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 14 Terminado\Solucion\Guia 2 ejercicio 14\obj\Debug\Guia 2 ejercicio 14.csproj.GenerateResource.Cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Ejercicio 14 Terminado\Solucion\Guia 2 ejercicio 14\obj\Debug\Guia_2_ejercicio_14.Properties.Resources.resources

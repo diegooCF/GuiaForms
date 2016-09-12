@@ -1,0 +1,22 @@
+c:\users\liok\documents\visual studio 2013\Projects\Guia2doTrim\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+c:\users\liok\documents\visual studio 2013\Projects\Guia2doTrim\Ejercicio8\bin\Debug\Ejercicio8.exe
+c:\users\liok\documents\visual studio 2013\Projects\Guia2doTrim\Ejercicio8\bin\Debug\Ejercicio8.pdb
+c:\users\liok\documents\visual studio 2013\Projects\Guia2doTrim\Ejercicio8\obj\Debug\Ejercicio8.csprojResolveAssemblyReference.cache
+c:\users\liok\documents\visual studio 2013\Projects\Guia2doTrim\Ejercicio8\obj\Debug\Ejercicio8.Estacionamiento.resources
+c:\users\liok\documents\visual studio 2013\Projects\Guia2doTrim\Ejercicio8\obj\Debug\Ejercicio8.Properties.Resources.resources
+c:\users\liok\documents\visual studio 2013\Projects\Guia2doTrim\Ejercicio8\obj\Debug\Ejercicio8.csproj.GenerateResource.Cache
+c:\users\liok\documents\visual studio 2013\Projects\Guia2doTrim\Ejercicio8\obj\Debug\Ejercicio8.exe
+c:\users\liok\documents\visual studio 2013\Projects\Guia2doTrim\Ejercicio8\obj\Debug\Ejercicio8.pdb
+c:\users\liok\documents\visual studio 2013\Projects\Guia2doTrim\Ejercicio8\obj\Debug\Ejercicio8.FrmIngreso.resources
+c:\users\liok\documents\visual studio 2013\Projects\Guia2doTrim\Ejercicio8\obj\Debug\Ejercicio8.FrmSalida.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\obj\Debug\Ejercicio8.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\obj\Debug\Ejercicio8.csprojResolveAssemblyReference.cache
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\obj\Debug\Ejercicio8.Estacionamiento.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\obj\Debug\Ejercicio8.FrmIngreso.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\obj\Debug\Ejercicio8.FrmSalida.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\obj\Debug\Ejercicio8.Properties.Resources.resources
+C:\Users\Diego Fernandez\Git Repositories and Projects\Projects\Visual Studio 2015\GuiaForms\Guia2doTrim\Ejercicio8\obj\Debug\Ejercicio8.csproj.GenerateResource.Cache
